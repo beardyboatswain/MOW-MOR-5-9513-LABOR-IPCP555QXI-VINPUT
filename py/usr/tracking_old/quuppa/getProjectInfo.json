@@ -1,0 +1,887 @@
+{
+  "coordinateSystems": [
+    {
+      "locators": [
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L025",
+          "location": [
+            11.6,
+            3.39,
+            2.89
+          ],
+          "id": "a4da22ef980d"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L022",
+          "location": [
+            3.46,
+            3.39,
+            2.89
+          ],
+          "id": "a4da22ef97f9"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L036",
+          "location": [
+            14.27,
+            6.34,
+            2.53
+          ],
+          "id": "a4da22ef980b"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L026",
+          "location": [
+            14.27,
+            3.39,
+            2.89
+          ],
+          "id": "a4da22ef980c"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L023",
+          "location": [
+            6.04,
+            3.39,
+            2.89
+          ],
+          "id": "a4da22ef981d"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L033",
+          "location": [
+            6.04,
+            6.34,
+            2.74
+          ],
+          "id": "a4da22ef97f7"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L035",
+          "location": [
+            11.5,
+            6.5,
+            2.74
+          ],
+          "id": "a4da22ef980a"
+        },
+        {
+          "locationLocked": true,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": true,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": true,
+          "locationLockedY": true,
+          "locatorType": "Q17",
+          "name": "L032",
+          "location": [
+            3.48,
+            6.34,
+            2.53
+          ],
+          "id": "a4da22ef97f8"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L016",
+          "location": [
+            14.27,
+            1.06,
+            2.89
+          ],
+          "id": "a4da22ef97fd"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L041",
+          "location": [
+            0.7,
+            8.8,
+            2.53
+          ],
+          "id": "a4da22ef9806"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L021",
+          "location": [
+            0.7,
+            3.41,
+            2.89
+          ],
+          "id": "a4da22ef9807"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L031",
+          "location": [
+            0.7,
+            6.32,
+            2.53
+          ],
+          "id": "a4da22ef9804"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L011",
+          "location": [
+            0.7,
+            1.05,
+            2.89
+          ],
+          "id": "a4da22ef9805"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L013",
+          "location": [
+            6.04,
+            1.06,
+            2.89
+          ],
+          "id": "a4da22ef9802"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L046",
+          "location": [
+            14.27,
+            8.8,
+            2.53
+          ],
+          "id": "a4da22ef9803"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L014",
+          "location": [
+            8.79,
+            1.06,
+            2.89
+          ],
+          "id": "a4da22ef9800"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L015",
+          "location": [
+            11.6,
+            1.06,
+            2.89
+          ],
+          "id": "a4da22ef9801"
+        },
+        {
+          "locationLocked": true,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": true,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": true,
+          "locationLockedY": true,
+          "locatorType": "Q17",
+          "name": "L042",
+          "location": [
+            3.44,
+            8.86,
+            2.53
+          ],
+          "id": "a4da22ef97f6"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L024",
+          "location": [
+            8.79,
+            3.39,
+            2.89
+          ],
+          "id": "a4da22ef97f3"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L043",
+          "location": [
+            6.04,
+            8.8,
+            2.53
+          ],
+          "id": "a4da22ef97f4"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L044",
+          "location": [
+            8.79,
+            8.8,
+            2.53
+          ],
+          "id": "a4da22ef97f1"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L045",
+          "location": [
+            11.6,
+            8.8,
+            2.53
+          ],
+          "id": "a4da22ef97f2"
+        },
+        {
+          "locationLocked": true,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": true,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": true,
+          "locationLockedY": true,
+          "locatorType": "Q17",
+          "name": "L012",
+          "location": [
+            3.47,
+            1.05,
+            2.89
+          ],
+          "id": "a4da22ef9809"
+        },
+        {
+          "locationLocked": false,
+          "orientation": [
+            -1.5708,
+            0,
+            0
+          ],
+          "visible": true,
+          "notes": "",
+          "color": "#ff0000ff",
+          "isOrientationSetManually": true,
+          "associatedAreas": [
+            "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768"
+          ],
+          "locationLockedX": false,
+          "locatorChannel": "Proprietary2481",
+          "locationLockedZ": false,
+          "locationLockedY": false,
+          "locatorType": "Q17",
+          "name": "L034",
+          "location": [
+            8.79,
+            6.34,
+            2.53
+          ],
+          "id": "a4da22ef97f0"
+        }
+      ],
+      "backgroundImages": [
+        {
+          "widthMeter": 18.496894824707848,
+          "xMeter": -1.14,
+          "visible": true,
+          "otherCoordSys": "",
+          "rotation": 0,
+          "origoY": 1183.9295302013422,
+          "origoX": 114.57382550335568,
+          "heightMeter": 11.92,
+          "yMeter": -0.14,
+          "alpha": 1,
+          "id": "c43b04c7-b22f-4214-83e3-feb1100e3dba",
+          "metersPerPixelY": 0.00994991652754591,
+          "metersPerPixelX": 0.009949916527545911
+        }
+      ],
+      "relativeZ": 0,
+      "polygons": [
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ff0000ff",
+          "openingIds": [],
+          "name": "MainTrackingArea",
+          "polygonData": "0.00,0.00|16.18,0.00|16.18,10.28|0.00,10.28|0.00,0.00",
+          "trackingArea": {
+            "notes": "",
+            "maxZ": 2,
+            "name": "MainTrackingArea",
+            "id": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "minZ": 0,
+            "track3d": false,
+            "trackingAreaGroup": "817e54f7-c938-48b1-96a7-a73775d92b77"
+          },
+          "id": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+          "polygonHoles": [
+            {
+              "locationLocked": false,
+              "notes": "",
+              "visible": true,
+              "name": "Hole002",
+              "polygonData": "5.60,5.20|6.18,5.20|6.18,5.96|5.60,5.96|5.60,5.20",
+              "id": "ab09a1c7-1988-4c99-9ccb-d798aa45c083"
+            },
+            {
+              "locationLocked": false,
+              "notes": "",
+              "visible": true,
+              "name": "Hole001",
+              "polygonData": "11.54,5.22|12.17,5.22|12.17,5.98|11.54,5.98|11.54,5.22",
+              "id": "03f9c56b-e607-4890-82bb-616f6d5a3442"
+            }
+          ]
+        }
+      ],
+      "name": "CoordSys001",
+      "id": "e25abceb-21d5-44b4-be2b-095156621fc6",
+      "zones": [
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ff00cccc",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zLeftBackCenter",
+          "polygonData": "9.06,6.00|12.17,6.00|12.17,10.28|9.06,10.28|9.06,6.00",
+          "id": "77c8d8f5-68a4-41aa-96f5-caa1adfdac45",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ffff0000",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zCenter",
+          "polygonData": "5.60,4.00|12.17,4.00|12.17,5.98|5.60,5.98|5.60,4.00",
+          "id": "fcd4c398-33b3-482c-a00b-1a39b4518326",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ffffff00",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zRightBackCenter",
+          "polygonData": "5.60,6.00|9.06,6.00|9.06,10.28|5.60,10.28|5.60,6.00",
+          "id": "87a46ea1-de48-43bd-a37d-1c28760009f0",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ffffff00",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zStage",
+          "polygonData": "4.94,0.00|10.69,0.00|10.69,1.98|4.94,1.98|4.94,0.00",
+          "id": "3482cdf7-0d57-4644-9423-16f453bca69e",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ff00ccff",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zRightBack",
+          "polygonData": "0.00,4.00|5.60,4.00|5.60,10.28|0.00,10.28|0.00,4.00",
+          "id": "000e1741-69d4-493e-a518-436ce2010787",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ff99ff99",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zEntrance",
+          "polygonData": "0.00,0.00|4.94,0.00|4.94,4.00|0.00,4.00|0.00,0.00",
+          "id": "d9137825-9f9d-48c1-8b25-2c7cdc547e4b",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ffff9900",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zPreStage",
+          "polygonData": "4.94,1.98|13.19,1.98|13.19,4.00|4.94,4.00|4.94,1.98",
+          "id": "99ba94ea-834c-4b3f-b9d3-6e6e1bf91689",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ffff9999",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zSpreaker",
+          "polygonData": "10.69,1.98|10.69,0.00|13.19,0.00|13.19,1.98|10.69,1.98",
+          "id": "af800c04-58d1-472b-bab1-a44639936e41",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ff99ffff",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zLeftBack",
+          "polygonData": "12.17,4.00|16.18,4.00|16.18,10.28|12.17,10.28|12.17,4.00",
+          "id": "51308938-d753-47ec-921d-5393504881cd",
+          "polygonHoles": []
+        },
+        {
+          "locationLocked": false,
+          "notes": "",
+          "visible": true,
+          "color": "#ff99ff99",
+          "zoneGroupId": "Default",
+          "openingIds": [],
+          "name": "zLeftForward",
+          "polygonData": "13.19,0.00|16.18,0.00|16.18,4.00|13.19,4.00|13.19,0.00",
+          "id": "1d0e8846-0041-4cfe-915f-cb07e498fed6",
+          "polygonHoles": []
+        }
+      ],
+      "openings": []
+    }
+  ],
+  "gatewayFilters": [],
+  "code": 0,
+  "responseTS": 1711459239421,
+  "zoneGroups": [
+    {
+      "notes": "",
+      "color": "#ffffff00",
+      "smartZone": false,
+      "hideLocation": false,
+      "activationCommands": [],
+      "name": "Default",
+      "id": "Default",
+      "rfBlocking": false
+    }
+  ],
+  "trackingAreaGroups": [
+    {
+      "notes": "",
+      "color": "#ff0000ff",
+      "trackTagGroups": {
+        "tagGroups": null,
+        "allTags": true
+      },
+      "name": "MainTrackingAreaGroup",
+      "radiusThreshold": 20,
+      "snapToPolygonDistanceZ": 0.5,
+      "id": "817e54f7-c938-48b1-96a7-a73775d92b77",
+      "type": "SemiConfined",
+      "snapToPolygonDistance": 0.25,
+      "mode3d": "Only2D"
+    }
+  ],
+  "tagGroups": [
+    {
+      "trackHeight": 1.3,
+      "notes": "",
+      "color": "#ff33cc00",
+      "sensorOnly": false,
+      "name": "MainTagsGroup",
+      "unknownTags": false,
+      "id": "09b35b40-defe-4da6-b988-69e0f4fe7c3c",
+      "track3d": false,
+      "track": true
+    }
+  ],
+  "message": "ProjectData",
+  "version": "2.0",
+  "command": "http://10.213.142.57:8080/qpe/getProjectInfo?version=2&noImageBytes=true",
+  "status": "Ok"
+}

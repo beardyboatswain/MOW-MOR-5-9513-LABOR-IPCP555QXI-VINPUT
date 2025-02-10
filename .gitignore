@@ -1,0 +1,10 @@
+
+.DS_Store
+Thumbs.db
+/.vscode/
+/devkit/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/extras/

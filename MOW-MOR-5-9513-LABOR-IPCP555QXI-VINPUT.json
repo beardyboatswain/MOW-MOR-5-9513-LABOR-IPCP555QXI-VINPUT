@@ -1,0 +1,65 @@
+{
+    "system": {
+        "name": "SRB-BLG-0-33-SRBIJA-IPCP250",
+        "code_entry_file": "main_SRB-BLG-0-33-SRBIJA-IPCP250.py",
+        "code_folder_path": "py",
+        "layout_folder_path": "gui",
+        "sound_folder_path": "sound",
+        "rfile_folder_path": "rfile",
+        "irfile_folder_path": "ir",
+        "system_id": "2012",
+        "author": {
+            "name": "@redchief",
+            "email": "redchief@yandex-team.ru"
+        },
+        "version": "0.0.1",
+        "primary_device_alias": "SRB-BLG-0-33-SRBIJA-IPCP250"
+    },
+    "devices": [
+        {
+            "name": "SRB-BLG-0-33-SRBIJA-IPCP250",
+            "part_number": "60-1917-01",
+            "alias": "SRB-BLG-0-33-SRBIJA-IPCP250",
+            "network": {
+                "host_network_type": "LAN",
+                "interfaces": [
+                    {
+                        "address": "172.28.43.211",
+                        "type": "LAN"
+                    },
+                    {
+                        "address": "192.168.254.250",
+                        "type": "AVLAN"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "SRB-BLG-0-33-SRBIJA-IPAD-ADM",
+            "part_number": "79-559-01",
+            "alias": "SRB-BLG-0-33-SRBIJA-IPAD-ADM",
+            "extron_control_web_id": "58e56635-1a24-40f6-b64c-25b861bf8559",
+            "ui": {
+                "layout_file": "SRB-BLG-0-33-SRBIJA-IPAD-ADM.gdl",
+                "enable_click_sound": true,
+                "press_feedback": "none",
+                "thumb_change_report_interval": 0.1,
+                "thumb_to_fill_sync_time": 0.5
+            }
+        },
+        {
+            "name": "SRB-BLG-0-33-SRBIJA-IPAD-USR",
+            "part_number": "79-559-01",
+            "alias": "SRB-BLG-0-33-SRBIJA-IPAD-USR",
+            "extron_control_web_id": "0c3905d0-2c73-42b2-8801-4a20d63c6a83",
+            "ui": {
+                "layout_file": "SRB-BLG-0-33-SRBIJA-IPAD-USR.gdl",
+                "enable_click_sound": true,
+                "press_feedback": "none",
+                "thumb_change_report_interval": 0.1,
+                "thumb_to_fill_sync_time": 0.5
+            }
+        }
+    ],
+    "schemaVersion": "1.0.0"
+}

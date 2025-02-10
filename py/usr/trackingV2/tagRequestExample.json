@@ -1,0 +1,887 @@
+{
+    "code": 0,
+    "responseTS": 1711450913791,
+    "outputFormatName": "Location JSON",
+    "outputFormatId": "DefFormat002",
+    "message": "TagPosition",
+    "version": "2.2",
+    "command": "http://10.213.142.57:8080/qpe/getTagPosition?version=2",
+    "tags": [
+        {
+            "smoothedPosition": [
+                0.19,
+                7.2,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.54,
+            "smoothedPositionAccuracy": 0.54,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612ac",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                3.19,
+                -0.02,          
+                -0.02,
+                1.52
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_25",
+            "positionTS": 1711449505931,
+            "id": "a4da22e612ac",
+            "position": [
+                0.19,
+                7.24,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.12,
+                6.75,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.48,
+            "smoothedPositionAccuracy": 0.16,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e56d02",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                2.18,
+                -0.9,
+                -0.9,
+                0.49
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_16",
+            "positionTS": 1711450324274,
+            "id": "a4da22e56d02",
+            "position": [
+                0.03,
+                6.77,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                11.98,
+                1.94,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.13,
+            "smoothedPositionAccuracy": 0.13,
+            "zones": [
+                {
+                    "name": "zSpreaker",
+                    "id": "af800c04-58d1-472b-bab1-a44639936e41"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612c3",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.13,
+                -0.01,
+                -0.01,
+                0.19
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_02",
+            "positionTS": 1711450878713,
+            "id": "a4da22e612c3",
+            "position": [
+                12.02,
+                1.95,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.03,
+                6.7,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.27,
+            "smoothedPositionAccuracy": 0.2,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e61337",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.59,
+                -0.31,
+                -0.31,
+                0.3
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_11",
+            "positionTS": 1711450685585,
+            "id": "a4da22e61337",
+            "position": [
+                0.16,
+                6.76,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0,
+                6.57,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.24,
+            "smoothedPositionAccuracy": 0.21,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612c9",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.63,
+                -0.03,
+                -0.03,
+                0.1
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_24",
+            "positionTS": 1711450886946,
+            "id": "a4da22e612c9",
+            "position": [
+                0,
+                6.53,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.39,
+                6.44,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.26,
+            "smoothedPositionAccuracy": 0.15,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612b4",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.52,
+                -0.27,
+                -0.27,
+                0.4
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_06",
+            "positionTS": 1711450885479,
+            "id": "a4da22e612b4",
+            "position": [
+                0.21,
+                6.31,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.54,
+                6.64,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.15,
+            "smoothedPositionAccuracy": 0.25,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e6136b",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.25,
+                0.02,
+                0.02,
+                0.21
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_08",
+            "positionTS": 1711450697005,
+            "id": "a4da22e6136b",
+            "position": [
+                0.51,
+                6.69,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                12.05,
+                1.91,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.12,
+            "smoothedPositionAccuracy": 0.12,
+            "zones": [
+                {
+                    "name": "zSpreaker",
+                    "id": "af800c04-58d1-472b-bab1-a44639936e41"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e61301",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.14,
+                0,
+                0,
+                0.15
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_03",
+            "positionTS": 1711450879583,
+            "id": "a4da22e61301",
+            "position": [
+                11.99,
+                1.79,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.33,
+                6.49,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.26,
+            "smoothedPositionAccuracy": 0.24,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e56d0b",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.72,
+                0.12,
+                0.12,
+                0.14
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_17",
+            "positionTS": 1711450204190,
+            "id": "a4da22e56d0b",
+            "position": [
+                0.35,
+                6.28,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                11.98,
+                1.81,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.13,
+            "smoothedPositionAccuracy": 0.13,
+            "zones": [
+                {
+                    "name": "zSpreaker",
+                    "id": "af800c04-58d1-472b-bab1-a44639936e41"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612fa",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.15,
+                -0.01,
+                -0.01,
+                0.18
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_04",
+            "positionTS": 1711450877172,
+            "id": "a4da22e612fa",
+            "position": [
+                12,
+                1.78,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.36,
+                6.6,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.29,
+            "smoothedPositionAccuracy": 0.28,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612fc",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.9,
+                -0.01,
+                -0.01,
+                0.33
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_07",
+            "positionTS": 1711450886074,
+            "id": "a4da22e612fc",
+            "position": [
+                0.19,
+                6.63,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.13,
+                6.66,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.13,
+            "smoothedPositionAccuracy": 0.13,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612f5",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.19,
+                -0,
+                -0,
+                0.16
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_21",
+            "positionTS": 1711450886448,
+            "id": "a4da22e612f5",
+            "position": [
+                0.2,
+                6.68,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.05,
+                6.59,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.17,
+            "smoothedPositionAccuracy": 0.16,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612d7",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.32,
+                -0.04,
+                -0.04,
+                0.11
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_23",
+            "positionTS": 1711450874146,
+            "id": "a4da22e612d7",
+            "position": [
+                0,
+                6.52,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0,
+                7.39,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.36,
+            "smoothedPositionAccuracy": 0.38,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612e7",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                1.13,
+                -0.56,
+                -0.56,
+                0.54
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_20",
+            "positionTS": 1711449508704,
+            "id": "a4da22e612e7",
+            "position": [
+                0,
+                7.49,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                11.93,
+                1.64,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.12,
+            "smoothedPositionAccuracy": 0.13,
+            "zones": [
+                {
+                    "name": "zSpreaker",
+                    "id": "af800c04-58d1-472b-bab1-a44639936e41"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e6131a",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.15,
+                -0.01,
+                -0.01,
+                0.13
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_05",
+            "positionTS": 1711450885795,
+            "id": "a4da22e6131a",
+            "position": [
+                11.9,
+                1.62,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                11.83,
+                1.9,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.13,
+            "smoothedPositionAccuracy": 0.13,
+            "zones": [
+                {
+                    "name": "zSpreaker",
+                    "id": "af800c04-58d1-472b-bab1-a44639936e41"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e61302",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.15,
+                -0.02,
+                -0.02,
+                0.19
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_01",
+            "positionTS": 1711450875822,
+            "id": "a4da22e61302",
+            "position": [
+                11.8,
+                2.01,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.42,
+                6.58,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.27,
+            "smoothedPositionAccuracy": 0.35,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e56cf6",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.27,
+                0.27,
+                0.27,
+                0.7
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_18",
+            "positionTS": 1711450887052,
+            "id": "a4da22e56cf6",
+            "position": [
+                0.52,
+                6.61,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0,
+                6.43,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.54,
+            "smoothedPositionAccuracy": 0.28,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e6133b",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                2.74,
+                -1.18,
+                -1.18,
+                0.65
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_15",
+            "positionTS": 1711450836862,
+            "id": "a4da22e6133b",
+            "position": [
+                0.02,
+                6.46,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.06,
+                6.53,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.11,
+            "smoothedPositionAccuracy": 0.16,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e6132a",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.13,
+                -0.02,
+                -0.02,
+                0.07
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_14",
+            "positionTS": 1711450880604,
+            "id": "a4da22e6132a",
+            "position": [
+                0.06,
+                6.5,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0,
+                6.54,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.26,
+            "smoothedPositionAccuracy": 0.65,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612ed",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.67,
+                -0.19,
+                -0.19,
+                0.28
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_10",
+            "positionTS": 1711450887333,
+            "id": "a4da22e612ed",
+            "position": [
+                0,
+                6.6,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.04,
+                6.66,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.82,
+            "smoothedPositionAccuracy": 0.25,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e61346",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                5.44,
+                -3.24,
+                -3.24,
+                2.11
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_13",
+            "positionTS": 1711450858701,
+            "id": "a4da22e61346",
+            "position": [
+                0.02,
+                6.61,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.11,
+                6.36,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.34,
+            "smoothedPositionAccuracy": 0.17,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e56cf0",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                1.19,
+                -0.28,
+                -0.28,
+                0.22
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_19",
+            "positionTS": 1711450217829,
+            "id": "a4da22e56cf0",
+            "position": [
+                0.02,
+                6.36,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.17,
+                6.54,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.17,
+            "smoothedPositionAccuracy": 0.14,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e56cee",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.34,
+                0.01,
+                0.01,
+                0.17
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_22",
+            "positionTS": 1711450874115,
+            "id": "a4da22e56cee",
+            "position": [
+                0.13,
+                6.54,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.02,
+                6.66,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.2,
+            "smoothedPositionAccuracy": 0.2,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e6133e",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.43,
+                -0.11,
+                -0.11,
+                0.13
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_12",
+            "positionTS": 1711450887384,
+            "id": "a4da22e6133e",
+            "position": [
+                0,
+                6.65,
+                1.3
+            ]
+        },
+        {
+            "smoothedPosition": [
+                0.03,
+                6.53,
+                1.3
+            ],
+            "color": "#33CC00",
+            "positionAccuracy": 0.21,
+            "smoothedPositionAccuracy": 0.15,
+            "zones": [
+                {
+                    "name": "zRightBack",
+                    "id": "000e1741-69d4-493e-a518-436ce2010787"
+                }
+            ],
+            "coordinateSystemId": "e25abceb-21d5-44b4-be2b-095156621fc6",
+            "deviceAddress": "a4da22e612db",
+            "areaId": "2ff4fc76-3c4a-4da9-850f-9f25ab3e8768",
+            "coordinateSystemName": "CoordSys001",
+            "covarianceMatrix": [
+                0.42,
+                -0.13,
+                -0.13,
+                0.18
+            ],
+            "areaName": "MainTrackingArea",
+            "name": "SRT_09",
+            "positionTS": 1711450870113,
+            "id": "a4da22e612db",
+            "position": [
+                0.02,
+                6.64,
+                1.3
+            ]
+        }
+    ],
+    "status": "Ok"
+}
